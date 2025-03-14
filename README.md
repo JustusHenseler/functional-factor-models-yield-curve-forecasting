@@ -1,7 +1,7 @@
 # Functional Factor Models for Yield Curve Forecasting
 
 ## Project Overview
-This repository contains the code and data my master's thesis *Functional Factor Models for Yield Curve Forecasting*. The study extends the approximate functional factor model by Otto and Salish (2024) to improve yield curve forecasting by incorporating macroeconomic principal component factors and modeling conditional heteroskedasticity in the factor dynamics.
+This repository contains the code for my master's thesis *Functional Factor Models for Yield Curve Forecasting*. The study extends the approximate functional factor model by Otto and Salish (2024) to improve yield curve forecasting by incorporating macroeconomic principal component factors and modeling conditional heteroskedasticity in the factor dynamics.
 
 The model is compared to the widely used Dynamic Nelson-Siegel (DNS) model in an empirical application to the U.S. Treasury yields data from [Liu & Wu (2021)](https://doi.org/10.1016/j.jfineco.2021.05.059). Forecasting performance is evaluated for different model specifications and forecast horizons, focusing on point and interval forecasts across the yield curve.
 
