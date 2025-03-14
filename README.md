@@ -14,7 +14,8 @@ The model is compared to the widely used Dynamic Nelson-Siegel (DNS) model in an
 - The script of the whole analysis is contained in `main.R`.
 
 ## Future Extensions
-- Use other types of yield curve data, such as the novel data set of 
+- Use other types of yield curve data, including sparse functional data.
 - Improve selection of macro factors by using partial least squares or ML-based index creation.
 - Use SSM models estimated by the extended Kalman Filter to incorporate conditional heteroskedasticity into the point forecasts.
+- Optional: Integrate into Python environment.
 
