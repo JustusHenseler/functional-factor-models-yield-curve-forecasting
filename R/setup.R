@@ -1,5 +1,6 @@
 
 packages <- c("zoo",
+              "fda",
               "remotes", 
               "vars", 
               "tsbox", 
